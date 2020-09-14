@@ -35,6 +35,10 @@ namespace NSPTestGitProject.Controllers
             return View();// Index
         }
 
+        public IActionResult IssueFix2NewMethod()
+        {
+            return View();// Index
+        }
         public IActionResult Privacy()
         {
             return View();
