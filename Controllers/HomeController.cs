@@ -22,6 +22,10 @@ namespace NSPTestGitProject.Controllers
         {
             return View();// Index
         }
+        public IActionResult NewFeatureA()
+        {
+            return View();// Index
+        }
 
         public IActionResult Privacy()
         {
