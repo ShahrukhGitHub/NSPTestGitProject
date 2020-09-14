@@ -30,6 +30,10 @@ namespace NSPTestGitProject.Controllers
         {
             return View();// Index
         }
+        public IActionResult IssueFixNeWfEATURE()
+        {
+            return View();// Index
+        }
 
         public IActionResult Privacy()
         {
